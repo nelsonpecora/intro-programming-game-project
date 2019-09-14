@@ -1,5 +1,7 @@
 ### The Game Project 6 – Adding game mechanics
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nelsonpecora/intro-programming-game-project.svg)](https://greenkeeper.io/)
+
 This week’s project builds upon the sketch from last week. Before
 starting this project make sure you have completed all steps from last
 week and tested your game thoroughly.
